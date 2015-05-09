@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Title</key>
+		<string>Hello!</string>
+		<key>Body</key>
+		<string>My name is Ruben. I like to build really cool stuff. This booklet will give you tell you all about me.
+To continue, swipe this card in any direction, or press the Next button</string>
+		<key>Image</key>
+		<string>Me</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>About Ruben</string>
+		<key>Body</key>
+		<string>Ruben is a student at Bowdoin College, where he studies Computer Science and Visual Arts with the goal of learning to build products that can improve people&apos;s lives. </string>
+		<key>Image</key>
+		<string>Bowdoin</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>About Ruben</string>
+		<key>Body</key>
+		<string>During his time at Bowdoin, Ruben has led the Information Technology Advisory Council (ITAC), a group that works to improve student life by implementing 21st century solutions to everyday problems.</string>
+		<key>Image</key>
+		<string>ITAC</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>About Ruben</string>
+		<key>Body</key>
+		<string>Ruben has built several iOS and Android apps for students, including apps for checking dining hall menus on the go, submitting petitions to the Bowdoin Student Government, and for listening to the College&apos;s radio station, WBOR.</string>
+		<key>Image</key>
+		<string>iPhone</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>About Ruben</string>
+		<key>Body</key>
+		<string>He also started the first student hackathon in Maine, CBBhacks, to help spread entrepreneurial spirit among Maine schools!</string>
+		<key>Image</key>
+		<string>CBB</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>About Ruben</string>
+		<key>Body</key>
+		<string>In 2013, Ruben was selected to attend Google Chrome Academy, where he worked with a team to build a real-time collaborative smart note-taking app.</string>
+		<key>Image</key>
+		<string>Chrome</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>About Ruben</string>
+		<key>Body</key>
+		<string>During his free time, Ruben founded a startup for connecting people with similar interests, built web and iOS apps for a medical startup, and is currently working on three apps for iOS: Infinitweet, Twindr, and TouchLocker.</string>
+		<key>Image</key>
+		<string>iOS</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>About Infinitweet</string>
+		<key>Body</key>
+		<string>Infinitweet converts text into images to expand Twitter&apos;s capabilities! It was recently featured on ProductHunt, and has hundreds of downloads across iOS, Android, and Chrome.</string>
+		<key>Image</key>
+		<string>Infinitweet</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>About Twindr</string>
+		<key>Body</key>
+		<string>Twindr lets you swipe left and right to follow or unfollow people on Twitter. This guidebook was based on Twindr&apos;s swiping capabilities! It is quite popular, having been downloaded several thousand times.</string>
+		<key>Image</key>
+		<string>Twindr</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>About TouchLocker</string>
+		<key>Body</key>
+		<string>TouchLocker was the first Touch ID-secured file locker on the App Store. It lets you store photos and text behind Apple&apos;s top-notch Touch ID security.</string>
+		<key>Image</key>
+		<string>TouchLocker</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>About Ruben</string>
+		<key>Body</key>
+		<string>In addition to these apps, Ruben has built dozens of other software and hardware projects across iOS, Android, Web, and beyond. To learn even more, check out his website from the &quot;Links&quot; section of this app.</string>
+		<key>Image</key>
+		<string>Puzzle</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Fin</string>
+		<key>Body</key>
+		<string>Keep swiping to start over.</string>
+		<key>Image</key>
+		<string></string>
+	</dict>
+</array>
+</plist>
